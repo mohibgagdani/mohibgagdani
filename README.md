@@ -10,7 +10,7 @@ I am a dedicated and motivated developer currently focusing on **MERN Stack Deve
 
 ### 🎯 Professional Goals
 - To become a skilled Full-Stack MERN Developer
-- To develop real-world web and mobile applications
+- To develop real-world Web applications
 - To continuously enhance my problem-solving and development skills
 
 ### 🌱 Currently Learning
