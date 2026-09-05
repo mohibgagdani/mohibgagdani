@@ -7,7 +7,6 @@ I am a dedicated and motivated developer currently focusing on **MERN Stack Deve
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Mobile Development:** Android (Learning)
 
 ### 🎯 Professional Goals
 - To become a skilled Full-Stack MERN Developer
