@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 👋 Hi, I'm Mohib Gagdani.  
-I am a dedicated and motivated developer currently focusing on **MERN Stack Development** and **Android Application Development**. I am passionate about learning modern technologies and building efficient, scalable, and user-friendly applications.
+I am a dedicated and motivated developer currently focusing on **MERN Stack Development**. I am passionate about learning modern technologies and building efficient, scalable, and user-friendly applications.
 
 ### 🔧 Technical Skills
 - **Frontend:** HTML, CSS, JavaScript, React
