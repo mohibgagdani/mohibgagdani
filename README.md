@@ -16,7 +16,6 @@ I am a dedicated and motivated developer currently focusing on **MERN Stack Deve
 
 ### 🌱 Currently Learning
 - Advanced MERN Stack concepts
-- Android Application Development
 
 ✨ Focused on learning, building, and growing as a developer.
 
